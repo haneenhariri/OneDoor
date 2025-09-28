@@ -1,0 +1,44 @@
+@import "tailwindcss";
+@custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
+
+@font-face {
+  font-family: Copperplate;
+  src: url("/Fonts/CopperplateW02Bold.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: CopperplateLight;
+  src: url("/Fonts/Copperplate.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+*
+{
+  box-sizing: border-box;
+}
+@theme {
+  --font-copperplate: "CopperplateLight", sans-serif; 
+  --font-copperplateBold: "Copperplate", sans-serif; 
+}
+/* Light mode - الوضع الفاتح */
+body {
+  background-color: white;
+  color: black;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Dark mode - الوضع المظلم */
+[data-theme="dark"] body {
+  background-color: black;
+  color: white;
+}
+
+/* Additional dark mode styles for better contrast */
+[data-theme="dark"] .service-card-dark {
+  background: linear-gradient(135deg, #3D3D3D 0%, #2A2A2A 100%);
+}
+
+[data-theme="dark"] .service-card-black {
+  background: linear-gradient(135deg, #2A2A2A 0%, #1A1A1A 100%);
+}
