@@ -3,7 +3,7 @@ import { navlink } from "../../data/data";
 import LanguageSelector from "../LanguageSelector/LanguageSelector";
 import ThemSelect from "../ThemSelect/ThemSelect";
 import Logo from "../ui/Logo/Logo";
-import close from '../../assets/close.svg';
+import close from "../../assets/close.svg";
 import { useTranslation } from "react-i18next";
 
 interface SidebarProps {
@@ -20,10 +20,16 @@ export default function SideBar({ isOpen, setIsOpen }: SidebarProps) {
       {/* Sidebar */}
       <div
         className={`fixed top-0 z-50 h-full bg-white dark:bg-black shadow-lg transform transition-transform duration-300 lg:hidden
-          ${isRTL ? 'left-0' : 'right-0'} 
-          w-10/12 sm:w-8/12 md:w-1/2
-          ${isOpen ? 'translate-x-0' : isRTL ? '-translate-x-full' : 'translate-x-full'}
-        `}
+    ${isRTL ? "right-0" : "left-0"} 
+    w-10/12 sm:w-8/12 md:w-1/2
+    ${
+      isOpen
+        ? "translate-x-0"
+        : isRTL
+        ? "translate-x-full"
+        : "-translate-x-full"
+    }
+  `}
       >
         <div className="flex justify-between items-center p-4 border-b border-gray-200 dark:border-gray-700">
           <Logo />
