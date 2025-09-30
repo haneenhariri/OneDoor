@@ -83,7 +83,7 @@ export default function Footer() {
         </div>
 
         {/* Copyright */}
-        <div className="text-center">
+        <div className="text-center mt-5">
           <p className="text-xs md:text-sm text-gray-600 dark:text-gray-400">
             {t('footerRights')}
           </p>
