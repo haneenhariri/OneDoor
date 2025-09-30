@@ -1,10 +1,171 @@
 {
-    "Home" : "Home",
-    "About" : "About",
-    "Services" : "Services",
-    "Contact Us" : "Contact Us",
+    "Home": "Home",
+    "About": "About",
+    "Services": "Services",
+    "Contact Us": "Contact Us",
     "slogan": "Enter the future",
     "description": "Where creativity meets technology to shape your unique digital future",
-    "Get Started" : "Get Started",
-    "Companyhelp" : "Company that can help you in"
+    "Get Started": "Get Started",
+    "Know More": "Know More",
+    "Start Now": "Start Now",
+    "Send": "Send",
+
+    "aboutIntro": "At",
+    "aboutIntro2": "we believe every achievement starts with an idea, and every idea needs a partner to turn it into reality.",
+    "aboutDescription": "we integrate artificial intelligence with software to create innovative digital solutions that lead the future and open new doors for ideas and opportunities. We strive to be a true partner for individuals and businesses, providing training and development, specialized consulting, and comprehensive digital project studies, transforming ideas into real achievements.",
+
+    "footerSlogan": "With us, every road leads you to your digital success!",
+    "footerServices": "Services",
+    "footerContactUs": "Contact Us",
+    "footerRights": "© 2025 OneDoor Company. All Rights Reserved.",
+
+    "Web Design": "Web Design",
+    "E-Commerce": "E-Commerce",
+    "Visual Identity": "Visual Identity",
+    "Mobile Applications": "Mobile Applications",
+    "Digital Project Management": "Digital Project Management",
+    "Training & Coaching": "Training & Coaching",
+
+    "webDesignDesc": "We create professional, responsive, and user-friendly websites that reflect your brand identity and engage your audience effectively.",
+    "eCommerceDesc": "We build robust and secure online stores with seamless shopping experiences to increase your sales and customer satisfaction.",
+    "visualIdentityDesc": "We develop a distinctive visual identity including logos, color schemes, and branding materials that set your brand apart.",
+    "mobileAppDesc": "We design and develop innovative mobile applications with smooth interfaces to provide an exceptional user experience.",
+    "projectManagementDesc": "We manage digital projects efficiently from planning to execution, ensuring timely delivery and achieving your strategic goals.",
+    "trainingDesc": "We offer professional training and coaching programs to develop skills, enhance knowledge, and empower teams for success in the digital world.",
+
+    "companyHelp": "Your strategic partner in shaping your company’s future",
+    "companyHelpDesc": "Work in the IT field includes Web Design, E-commerce, Branding, Mobile Applications, and Digital Project Management.",
+
+    "letsWorkTogether": "Let's work together  with us",
+    "letsWorkDesc": "help you to build website company that is modern, user friendly, good CEO, and Clean design",
+
+    "partnershipsTitle": "Partnerships & Events",
+    "partnershipsDesc": "Our partnerships reflect our commitment and reliability as a trusted partner.",
+    "partnershipEvent1Title": "OneDoor Company & NCA",
+    "partnershipEvent1Desc": "During the Damascus International Fair, a cooperation agreement was signed between OneDoor Software Company and NCA, in a step that strengthens partnership and innovation towards a promising technological future.",
+    "partnershipEvent2Title": "OneDoor & EcomEdge &  Al Bader investments company",
+
+    "aboutUsTitle": "About Us",
+    "aboutUsSubtitle": "At ONE DOOR, we believe digital innovation drives growth and transformation.",
+
+    "contactUsTitle": "Contact Us",
+    "contactUsSubtitle": "Get in touch with us today and let us help you with any questions or inquiries you may have.",
+    "Operating Days": "Operating Days",
+    "Sunday to Thursday": "Sunday to Thursday",
+    "Stay Connected": "Stay Connected",
+    "Contact Details": "Contact Details",
+
+    "Full Name": "Full Name",
+    "Email": "Email",
+    "Type here": "Type here",
+    "Why are you contacting us?": "Why are you contacting us?",
+    "Collaboration": "Collaboration",
+    "Mobile App": "Mobile App",
+    "Others": "Others",
+    "Your Message": "Your Message",
+
+    "ourServicesTitle": "Our Services",
+    "ourServicesSubtitle": "Transform your brand with our innovative digital solutions that captivate and engage your audience.",
+    "designTitle": "Design",
+    "designDesc": "our design team is passionate about creating stunning, user-centric designs that captivate your audience and elevate your brand. We believe that great design is not just about aesthetics; it's about creating seamless and intuitive user experiences.",
+    "designInclude": "Our design services include:",
+
+    "User Experience (UX) Design": "User Experience (UX) Design",
+    "User Research and Persona Development": "User Research and Persona Development",
+    "Information Architecture and Wireframing": "Information Architecture and Wireframing",
+    "Interactive Prototyping and User Testing": "Interactive Prototyping and User Testing",
+    "UI Design and Visual Branding": "UI Design and Visual Branding",
+
+    "User Interface (UI) Design": "User Interface (UI) Design",
+    "Intuitive and Visually Appealing Interface Design": "Intuitive and Visually Appealing Interface Design",
+    "Information Architecture and WireframingCustom Iconography and Illustration": "Information Architecture and WireframingCustom Iconography and Illustration",
+    "Typography and Color Palette Selection": "Typography and Color Palette Selection",
+    "Responsive Design for Various Devices": "Responsive Design for Various Devices",
+
+    "Branding and Identity": "Branding and Identity",
+    "Logo Design and Visual Identity Development": "Logo Design and Visual Identity Development",
+    "Brand Strategy and Positioning": "Brand Strategy and Positioning",
+    "Brand Guidelines and Style Guides": "Brand Guidelines and Style Guides",
+    "Marketing Collateral Design (Brochures, Business Cards, etc.)": "Marketing Collateral Design (Brochures, Business Cards, etc.)",
+
+    "Show Post": "Show Post",
+    "scroll down for work together": "scroll down for work together",
+
+    "Frequently Asked Questions": "Frequently Asked Questions",
+    "faqSubtitle": "Answers to the most common questions about our services",
+
+    "Let's work": "Let's work",
+    "with Us": "with Us",
+    "ctaDescription": "OneDoor is a leading company that provides comprehensive services in software development, website design, e-commerce solutions, and digital innovation.",
+
+    "Find Us Here": "Find Us Here",
+    "Visit our office in Aleppo, Syria": "Visit our office in Aleppo, Syria",
+
+    "Our e-commerce services include:": "Our e-commerce services include:",
+    "Our team specializes in creating comprehensive e-commerce experiences that combine outstanding performance with appealing design to meet user needs and boost conversion rates. We believe that a successful online store goes beyond aesthetics—it encompasses ease of use, fast performance, and a smooth, enjoyable user experience.": "Our team specializes in creating comprehensive e-commerce experiences that combine outstanding performance with appealing design to meet user needs and boost conversion rates. We believe that a successful online store goes beyond aesthetics—it encompasses ease of use, fast performance, and a smooth, enjoyable user experience.",
+
+    "Online Store Development": "Online Store Development",
+    "Custom store design and development": "Custom store design and development",
+    "Mobile-optimized shopping experience": "Mobile-optimized shopping experience",
+    "Secure payment gateway integration": "Secure payment gateway integration",
+    "Product catalog and inventory management": "Product catalog and inventory management",
+
+    "E-Commerce Strategy": "E-Commerce Strategy",
+    "Sales funnel optimization": "Sales funnel optimization",
+    "Customer journey mapping": "Customer journey mapping",
+    "Market and competitor analysis": "Market and competitor analysis",
+    "Conversion rate optimization": "Conversion rate optimization",
+
+    "Digital Marketing & Promotion": "Digital Marketing & Promotion",
+    "Online advertising campaign management": "Online advertising campaign management",
+    "SEO optimization for online stores": "SEO optimization for online stores",
+    "Email and social media marketing": "Email and social media marketing",
+    "Performance analysis and reporting": "Performance analysis and reporting",
+
+    "Software Development": "Software Development",
+    "Our software development services include:": "Our software development services include:",
+    "Our team specializes in developing innovative and efficient software solutions tailored to your business needs. We believe that successful software goes beyond coding—it includes smart solutions, high performance, and scalability to ensure the sustainability of your digital projects.": "Our team specializes in developing innovative and efficient software solutions tailored to your business needs. We believe that successful software goes beyond coding—it includes smart solutions, high performance, and scalability to ensure the sustainability of your digital projects.",
+
+    "Web Development": "Web Development",
+    "Frontend development using modern frameworks": "Frontend development using modern frameworks",
+    "Backend development and API integration": "Backend development and API integration",
+    "Responsive and accessible web design": "Responsive and accessible web design",
+    "Database design and optimization": "Database design and optimization",
+
+    "Mobile Development": "Mobile Development",
+    "Cross-platform mobile app development": "Cross-platform mobile app development",
+    "Native iOS and Android applications": "Native iOS and Android applications",
+    "Intuitive and user-friendly interfaces": "Intuitive and user-friendly interfaces",
+    "App performance optimization and testing": "App performance optimization and testing",
+
+    "Cybersecurity": "Cybersecurity",
+    "Security audits and vulnerability assessment": "Security audits and vulnerability assessment",
+    "Data encryption and protection strategies": "Data encryption and protection strategies",
+    "Monitoring and threat detection": "Monitoring and threat detection",
+    "Incident response and mitigation": "Incident response and mitigation",
+
+    "Our digital project management services include:": "Our digital project management services include:",
+    "We manage your digital projects efficiently from planning to execution, ensuring timely delivery and strategic goal achievement. We believe successful project management requires precise organization, continuous monitoring, and effective coordination across all teams.": "We manage your digital projects efficiently from planning to execution, ensuring timely delivery and strategic goal achievement. We believe successful project management requires precise organization, continuous monitoring, and effective coordination across all teams.",
+
+    "Project Planning": "Project Planning",
+    "Defining project scope and objectives": "Defining project scope and objectives",
+    "Setting milestones and project timelines": "Setting milestones and project timelines",
+    "Resource allocation and budgeting": "Resource allocation and budgeting",
+    "Identifying risks and mitigation strategies": "Identifying risks and mitigation strategies",
+
+    "Execution & Monitoring": "Execution & Monitoring",
+    "Coordinating teams and tasks effectively": "Coordinating teams and tasks effectively",
+    "Tracking progress and performance metrics": "Tracking progress and performance metrics",
+    "Quality assurance and compliance checks": "Quality assurance and compliance checks",
+    "Regular reporting to stakeholders": "Regular reporting to stakeholders",
+
+    "Optimization & Delivery": "Optimization & Delivery",
+    "Improving workflows and processes": "Improving workflows and processes",
+    "Analyzing performance indicators": "Analyzing performance indicators",
+    "Managing deadlines and deliverables": "Managing deadlines and deliverables",
+    "Ensuring successful project completion": "Ensuring successful project completion",
+
+    "Show More": "Show More",
+    "Show Less": "Show Less",
+    "Scroll to Top": "Scroll to Top"
 }

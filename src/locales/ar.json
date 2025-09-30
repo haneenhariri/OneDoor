@@ -1,9 +1,171 @@
 {
-    "Home" : "الرئيسية",
-    "About" : "من نحن",
-    "Services" : "خدماتنا",
-    "Contact Us" : "تواصل معنا",
-    "slogan" : "ادخل المستقبل",
-    "description" : "حيث يلتقي الإبداع بالتكنولوجيا لتشكيل مستقبلك الرقمي الفريد",
-    "Get Started": "ابدأ الآن"
+    "Home": "الرئيسية",
+    "About": "من نحن",
+    "Services": "خدماتنا",
+    "Contact Us": "تواصل معنا",
+    "slogan": "ادخل المستقبل",
+    "description": "حيث يلتقي الإبداع بالتكنولوجيا لصياغة مستقبلك الرقمي الفريد",
+    "Get Started": "ابدأ الآن",
+    "Know More": "اعرف المزيد",
+    "Start Now": "ابدأ الآن",
+    "Send": "إرسال",
+
+    "aboutIntro": "في",
+    "aboutIntro2": "نؤمن أن كل إنجاز يبدأ بفكرة، وكل فكرة تحتاج إلى شريك لتحويلها إلى واقع.",
+    "aboutDescription": "نقوم بدمج الذكاء الاصطناعي مع البرمجيات لإنشاء حلول رقمية مبتكرة تقود المستقبل وتفتح آفاقًا جديدة للأفكار والفرص. نسعى لأن نكون شريكًا حقيقيًا للأفراد والشركات من خلال تقديم التدريب والتطوير، والاستشارات المتخصصة، ودراسات شاملة للمشاريع الرقمية، لتحويل الأفكار إلى إنجازات ملموسة.",
+
+    "footerSlogan": "معنا، كل طريق يقودك إلى نجاحك الرقمي!",
+    "footerServices": "الخدمات",
+    "footerContactUs": "تواصل معنا",
+    "footerRights": "© 2025 شركة OneDoor. جميع الحقوق محفوظة.",
+
+    "Web Design": "تصميم المواقع",
+    "E-Commerce": "التجارة الإلكترونية",
+    "Visual Identity": "الهوية البصرية",
+    "Mobile Applications": "تطبيقات الموبايل",
+    "Digital Project Management": "إدارة المشاريع الرقمية",
+    "Training & Coaching": "التدريب والتوجيه",
+
+    "webDesignDesc": "ننشئ مواقع ويب احترافية ومتجاوبة وسهلة الاستخدام تعكس هوية علامتك التجارية وتجذب جمهورك بفعالية.",
+    "eCommerceDesc": "نبني متاجر إلكترونية قوية وآمنة مع تجارب تسوق سلسة لتعزيز مبيعاتك ورضا عملائك.",
+    "visualIdentityDesc": "نطور هوية بصرية مميزة تشمل الشعارات والألوان والمواد التسويقية التي تميز علامتك التجارية.",
+    "mobileAppDesc": "نصمم ونطور تطبيقات موبايل مبتكرة بواجهات سلسة لتوفير تجربة مستخدم استثنائية.",
+    "projectManagementDesc": "ندير المشاريع الرقمية بكفاءة من التخطيط حتى التنفيذ، مع ضمان التسليم في الوقت المحدد وتحقيق أهدافك الاستراتيجية.",
+    "trainingDesc": "نقدم برامج تدريب وتوجيه احترافية لتطوير المهارات وتعزيز المعرفة وتمكين الفرق لتحقيق النجاح في العالم الرقمي.",
+
+    "companyHelp": "شريكك الاستراتيجي في صياغة مستقبل شركتك",
+    "companyHelpDesc": "يشمل العمل في مجال تكنولوجيا المعلومات تصميم المواقع، التجارة الإلكترونية، العلامة التجارية، تطبيقات الموبايل، وإدارة المشاريع الرقمية.",
+
+    "letsWorkTogether": "لنعمل معًا",
+    "letsWorkDesc": "نساعدك في بناء موقع إلكتروني عصري وسهل الاستخدام، محسّن لمحركات البحث وبتصميم نظيف.",
+
+    "partnershipsTitle": "الشراكات والفعاليات",
+    "partnershipsDesc": "شراكاتنا تعكس التزامنا وموثوقيتنا كشريك موثوق.",
+    "partnershipEvent1Title": "شركة OneDoor و NCA",
+    "partnershipEvent1Desc": "خلال معرض دمشق الدولي، تم توقيع اتفاقية تعاون بين شركة OneDoor للبرمجيات و NCA، في خطوة تعزز الشراكة والابتكار نحو مستقبل تكنولوجي واعد.",
+    "partnershipEvent2Title": "OneDoor و EcomEdge وشركة البدر للاستثمار",
+
+    "aboutUsTitle": "من نحن",
+    "aboutUsSubtitle": "في ONE DOOR، نؤمن أن الابتكار الرقمي يدفع النمو والتحول.",
+
+    "contactUsTitle": "تواصل معنا",
+    "contactUsSubtitle": "تواصل معنا اليوم ودعنا نساعدك في أي استفسارات أو أسئلة قد تكون لديك.",
+    "Operating Days": "أيام العمل",
+    "Sunday to Thursday": "من الأحد إلى الخميس",
+    "Stay Connected": "ابقَ على تواصل",
+    "Contact Details": "تفاصيل التواصل",
+
+    "Full Name": "الاسم الكامل",
+    "Email": "البريد الإلكتروني",
+    "Type here": "اكتب هنا",
+    "Why are you contacting us?": "سبب تواصلك معنا؟",
+    "Collaboration": "تعاون",
+    "Mobile App": "تطبيق موبايل",
+    "Others": "أخرى",
+    "Your Message": "رسالتك",
+
+    "ourServicesTitle": "خدماتنا",
+    "ourServicesSubtitle": "حوّل علامتك التجارية بحلولنا الرقمية المبتكرة التي تجذب جمهورك وتفاعله.",
+    "designTitle": "التصميم",
+    "designDesc": "فريق التصميم لدينا شغوف بابتكار تصاميم رائعة تركز على المستخدم وتجذب جمهورك وترتقي بمستوى علامتك التجارية. نحن نؤمن أن التصميم الرائع لا يقتصر على الجماليات، بل يتعلق بإنشاء تجارب مستخدم سلسة وبديهية.",
+    "designInclude": "تشمل خدمات التصميم لدينا:",
+
+    "User Experience (UX) Design": "تصميم تجربة المستخدم (UX)",
+    "User Research and Persona Development": "بحث المستخدم وتطوير الشخصيات",
+    "Information Architecture and Wireframing": "بنية المعلومات والإطارات الشبكية",
+    "Interactive Prototyping and User Testing": "النماذج الأولية التفاعلية واختبار المستخدم",
+    "UI Design and Visual Branding": "تصميم واجهة المستخدم والعلامة التجارية المرئية",
+
+    "User Interface (UI) Design": "تصميم واجهة المستخدم (UI)",
+    "Intuitive and Visually Appealing Interface Design": "تصميم واجهة بديهية وجذابة بصريًا",
+    "Information Architecture and WireframingCustom Iconography and Illustration": "بنية المعلومات والإطارات الشبكية، وأيقونات ورسوم توضيحية مخصصة",
+    "Typography and Color Palette Selection": "اختيار الخطوط ولوحة الألوان",
+    "Responsive Design for Various Devices": "تصميم متجاوب لجميع الأجهزة",
+
+    "Branding and Identity": "العلامة التجارية والهوية",
+    "Logo Design and Visual Identity Development": "تصميم الشعار وتطوير الهوية البصرية",
+    "Brand Strategy and Positioning": "استراتيجية العلامة التجارية وتحديد المواقع",
+    "Brand Guidelines and Style Guides": "إرشادات العلامة التجارية وأدلة الأسلوب",
+    "Marketing Collateral Design (Brochures, Business Cards, etc.)": "تصميم المواد التسويقية (كتيبات، بطاقات العمل، إلخ.)",
+
+    "Show Post": "عرض المنشور",
+    "scroll down for work together": "مرر للأسفل للعمل معًا",
+
+    "Frequently Asked Questions": "الأسئلة الشائعة",
+    "faqSubtitle": "إجابات على أكثر الأسئلة شيوعًا حول خدماتنا",
+
+    "Let's work": "لنعمل",
+    "with Us": "معًا",
+    "ctaDescription": "شركة OneDoor رائدة في تقديم خدمات شاملة لتطوير البرمجيات، وتصميم المواقع، وحلول التجارة الإلكترونية، والابتكار الرقمي.",
+
+    "Find Us Here": "اعثر علينا هنا",
+    "Visit our office in Aleppo, Syria": "قم بزيارة مكتبنا في حلب، سوريا",
+
+    "Our e-commerce services include:": "تشمل خدمات التجارة الإلكترونية لدينا:",
+    "Our team specializes in creating comprehensive e-commerce experiences that combine outstanding performance with appealing design to meet user needs and boost conversion rates. We believe that a successful online store goes beyond aesthetics—it encompasses ease of use, fast performance, and a smooth, enjoyable user experience.": "فريقنا متخصص في إنشاء تجارب تجارة إلكترونية شاملة تجمع بين الأداء المتميز والتصميم الجذاب لتلبية احتياجات المستخدمين وتعزيز معدلات التحويل. نحن نؤمن أن المتجر الإلكتروني الناجح يتجاوز الجماليات—فهو يشمل سهولة الاستخدام والأداء السريع وتجربة مستخدم سلسة وممتعة.",
+
+    "Online Store Development": "تطوير المتاجر الإلكترونية",
+    "Custom store design and development": "تصميم وتطوير متجر مخصص",
+    "Mobile-optimized shopping experience": "تجربة تسوق محسّنة للموبايل",
+    "Secure payment gateway integration": "تكامل بوابة دفع آمنة",
+    "Product catalog and inventory management": "إدارة كتالوج المنتجات والمخزون",
+
+    "E-Commerce Strategy": "استراتيجية التجارة الإلكترونية",
+    "Sales funnel optimization": "تحسين مسار المبيعات",
+    "Customer journey mapping": "رسم رحلة العميل",
+    "Market and competitor analysis": "تحليل السوق والمنافسين",
+    "Conversion rate optimization": "تحسين معدل التحويل",
+
+    "Digital Marketing & Promotion": "التسويق الرقمي والترويج",
+    "Online advertising campaign management": "إدارة حملات الإعلانات الإلكترونية",
+    "SEO optimization for online stores": "تحسين محركات البحث للمتاجر الإلكترونية",
+    "Email and social media marketing": "التسويق عبر البريد الإلكتروني ووسائل التواصل الاجتماعي",
+    "Performance analysis and reporting": "تحليل الأداء وإعداد التقارير",
+
+    "Software Development": "تطوير البرمجيات",
+    "Our software development services include:": "تشمل خدمات تطوير البرمجيات لدينا:",
+    "Our team specializes in developing innovative and efficient software solutions tailored to your business needs. We believe that successful software goes beyond coding—it includes smart solutions, high performance, and scalability to ensure the sustainability of your digital projects.": "فريقنا متخصص في تطوير حلول برمجية مبتكرة وفعالة مصممة خصيصًا لاحتياجات عملك. نحن نؤمن أن البرمجيات الناجحة تتجاوز البرمجة—فهي تشمل حلولًا ذكية وأداءً عاليًا وقابلية للتوسع لضمان استدامة مشاريعك الرقمية.",
+
+    "Web Development": "تطوير الويب",
+    "Frontend development using modern frameworks": "تطوير الواجهة الأمامية باستخدام أطر عمل حديثة",
+    "Backend development and API integration": "تطوير الواجهة الخلفية وتكامل API",
+    "Responsive and accessible web design": "تصميم ويب متجاوب وسهل الوصول",
+    "Database design and optimization": "تصميم وتحسين قواعد البيانات",
+
+    "Mobile Development": "تطوير تطبيقات الموبايل",
+    "Cross-platform mobile app development": "تطوير تطبيقات موبايل متعددة المنصات",
+    "Native iOS and Android applications": "تطبيقات iOS و Android الأصلية",
+    "Intuitive and user-friendly interfaces": "واجهات بديهية وسهلة الاستخدام",
+    "App performance optimization and testing": "تحسين أداء التطبيقات واختبارها",
+
+    "Cybersecurity": "الأمن السيبراني",
+    "Security audits and vulnerability assessment": "عمليات التدقيق الأمني وتقييم الثغرات",
+    "Data encryption and protection strategies": "استراتيجيات تشفير وحماية البيانات",
+    "Monitoring and threat detection": "المراقبة واكتشاف التهديدات",
+    "Incident response and mitigation": "الاستجابة للحوادث والتخفيف من آثارها",
+
+    "Our digital project management services include:": "تشمل خدمات إدارة المشاريع الرقمية لدينا:",
+    "We manage your digital projects efficiently from planning to execution, ensuring timely delivery and strategic goal achievement. We believe successful project management requires precise organization, continuous monitoring, and effective coordination across all teams.": "ندير مشاريعك الرقمية بكفاءة من التخطيط إلى التنفيذ، مع ضمان التسليم في الوقت المحدد وتحقيق الأهداف الاستراتيجية. نحن نؤمن أن إدارة المشاريع الناجحة تتطلب تنظيمًا دقيقًا ومراقبة مستمرة وتنسيقًا فعالًا عبر جميع الفرق.",
+
+    "Project Planning": "تخطيط المشاريع",
+    "Defining project scope and objectives": "تحديد نطاق المشروع وأهدافه",
+    "Setting milestones and project timelines": "تحديد المعالم الرئيسية والجداول الزمنية للمشروع",
+    "Resource allocation and budgeting": "تخصيص الموارد وإعداد الميزانية",
+    "Identifying risks and mitigation strategies": "تحديد المخاطر واستراتيجيات التخفيف منها",
+
+    "Execution & Monitoring": "التنفيذ والمراقبة",
+    "Coordinating teams and tasks effectively": "تنسيق الفرق والمهام بفعالية",
+    "Tracking progress and performance metrics": "تتبع التقدم ومقاييس الأداء",
+    "Quality assurance and compliance checks": "ضمان الجودة وفحوصات الامتثال",
+    "Regular reporting to stakeholders": "إعداد تقارير منتظمة لأصحاب المصلحة",
+
+    "Optimization & Delivery": "التحسين والتسليم",
+    "Improving workflows and processes": "تحسين سير العمل والعمليات",
+    "Analyzing performance indicators": "تحليل مؤشرات الأداء",
+    "Managing deadlines and deliverables": "إدارة المواعيد النهائية والتسليمات",
+    "Ensuring successful project completion": "ضمان إنجاز المشروع بنجاح",
+
+    "Show More": "عرض المزيد",
+    "Show Less": "عرض أقل",
+    "Scroll to Top": "العودة للأعلى"
 }

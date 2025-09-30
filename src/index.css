@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import 'leaflet/dist/leaflet.css';
 @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 
 @font-face {
@@ -21,14 +22,14 @@
   --font-copperplate: "CopperplateLight", sans-serif; 
   --font-copperplateBold: "Copperplate", sans-serif; 
 }
-/* Light mode - الوضع الفاتح */
+/* Light mode*/
 body {
   background-color: white;
   color: black;
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-/* Dark mode - الوضع المظلم */
+/* Dark mode */
 [data-theme="dark"] body {
   background-color: black;
   color: white;

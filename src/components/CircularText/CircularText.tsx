@@ -1,5 +1,8 @@
+import { useTranslation } from 'react-i18next'
 
 export default function CircularText() {
+  const { t } = useTranslation()
+
   return (
     <div className="flex items-center justify-center min-h-screen bg-white">
       <svg
@@ -25,7 +28,7 @@ export default function CircularText() {
           letterSpacing="4"
         >
           <textPath href="#circlePath">
-            scroll down for work together
+            {t('scroll down for work together')}
           </textPath>
         </text>
 
