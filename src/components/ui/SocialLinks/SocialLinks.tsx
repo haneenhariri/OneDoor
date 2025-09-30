@@ -27,10 +27,10 @@ export default function SocialLinks({
   };
 
   const socialLinks = [
-    { href: '#', icon: wa, alt: 'WhatsApp' },
-    { href: '#', icon: linkedIn, alt: 'LinkedIn' },
-    { href: '#', icon: insta, alt: 'Instagram' },
-    { href: '#', icon: face, alt: 'Facebook' }
+    { href: 'https://wa.me/963995550310', icon: wa, alt: 'WhatsApp' },
+    { href: 'https://www.instagram.com/onedoor_company', icon: linkedIn, alt: 'LinkedIn' },
+    { href: 'https://www.instagram.com/onedoor_company', icon: insta, alt: 'Instagram' },
+    { href: 'https://www.facebook.com/profile.php?id=61572301930088&mibextid=wwXIfr&rdid=GSP0YYgJnrfvqvbP&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F16xgHADrDs%2F%3Fmibextid%3DwwXIfr#', icon: face, alt: 'Facebook' }
   ];
 
   return (

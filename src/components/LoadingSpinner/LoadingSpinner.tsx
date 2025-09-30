@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-
+import logo from '../../assets/logo.png'
 interface LoadingSpinnerProps {
   onLoadComplete?: () => void;
   minDisplayTime?: number;
@@ -7,9 +7,8 @@ interface LoadingSpinnerProps {
 
 const LoadingSpinner = ({
   onLoadComplete,
-  minDisplayTime = 500
+  minDisplayTime = 300
 }: LoadingSpinnerProps) => {
-  const [isVisible, setIsVisible] = useState(true);
   const [shouldRender, setShouldRender] = useState(true);
 
   useEffect(() => {
@@ -20,11 +19,8 @@ const LoadingSpinner = ({
       const remainingTime = Math.max(0, minDisplayTime - elapsedTime);
 
       setTimeout(() => {
-        setIsVisible(false);
-        setTimeout(() => {
-          setShouldRender(false);
-          onLoadComplete?.();
-        }, 300);
+        setShouldRender(false);
+        onLoadComplete?.();
       }, remainingTime);
     };
 
@@ -40,13 +36,11 @@ const LoadingSpinner = ({
 
   return (
     <div
-      className={`
+      className="
         fixed inset-0 z-[9999]
         flex items-center justify-center
         bg-white dark:bg-black
-        transition-opacity duration-300 ease-out
-        ${!isVisible ? 'opacity-0' : 'opacity-100'}
-      `}
+      "
       aria-label="Loading"
       role="status"
     >
@@ -79,7 +73,7 @@ const LoadingSpinner = ({
         {/* Logo */}
         <div className="relative z-10">
           <img
-            src="/logo.png"
+            src={logo}
             alt="Loading..."
             className="
               w-20 h-20
