@@ -164,8 +164,8 @@ Make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/onedoor.git
-   cd onedoor
+   git clone https://github.com/haneenhariri/OneDoor
+   cd oneDoor
    ```
 
 2. **Install dependencies**
@@ -332,11 +332,7 @@ netlify deploy --prod
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
----
 
 ## 📞 Contact
 
@@ -349,7 +345,7 @@ This project is licensed under the MIT License.
 ---
 
 <div align="center">
-  Made with ❤️ by OneDoor Team
+  Made with ❤️ by Haneen Al-hariri
 
   ⭐ Star this repo if you find it helpful!
 </div>

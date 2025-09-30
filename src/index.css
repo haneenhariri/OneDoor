@@ -43,3 +43,13 @@ body {
 [data-theme="dark"] .service-card-black {
   background: linear-gradient(135deg, #2A2A2A 0%, #1A1A1A 100%);
 }
+
+/* Loading Spinner Animation */
+@keyframes spinScale {
+  0%, 100% {
+    transform: rotate(0deg) scale(1);
+  }
+  50% {
+    transform: rotate(180deg) scale(1.1);
+  }
+}
